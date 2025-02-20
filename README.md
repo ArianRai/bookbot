@@ -1,2 +1,3 @@
-# bookbot
-bootdev bookbot project
+# BookBot
+
+BookBot is my first python project!
